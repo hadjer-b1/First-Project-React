@@ -1,0 +1,11 @@
+.App-home h1{
+    color: rgb(4, 92, 121);
+    font-size: 60px;
+    text-align: center;
+    margin: 50px ;
+}
+.App-home p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
